@@ -3,6 +3,8 @@
 Backend : PHP Native || 
 Frontend : Bootstrap
 
+Nama Database: project_monitoring
+
 tampilan index:
 ![index(tampil data)](https://user-images.githubusercontent.com/74399380/150632491-ba07e494-e9ca-49cd-b587-a3890c6e7de5.png)
 
